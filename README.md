@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Mahak
+
+A Passionate Data Scientist with experience in ML Research and building scalable ML systems. Aim to make impactful contributions to humanity and the planet via ML and AI.
+
+* 💬 Ask me about: Data Science, Machine Learning, Artificial Intelligence and Deep Learning
+* 🔭 I’m currently working on Python
+* 😄 Pronouns: She/Her/Hers
+
+
+
 
 <!--
 **mahaksharma/mahaksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
